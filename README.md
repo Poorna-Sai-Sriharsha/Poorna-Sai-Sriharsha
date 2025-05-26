@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poorna Sai Sriharsha Perina</h1>
+<h1 align="center">Hi 👋, I'm Perina Poorna Sai Sriharsha</h1>
 <h3 align="center">An aspiring web developer with a strong foundation in building user-centric websites and applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poorna-sai-sriharsha&label=Profile%20views&color=0e75b6&style=flat" alt="poorna-sai-sriharsha" /> </p>
 
