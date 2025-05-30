@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Perina Poorna Sai Sriharsha</h1>
 <h3 align="center">An aspiring web developer with a strong foundation in building user-centric websites and applications.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poorna-sai-sriharsha&label=Profile%20views&color=0e75b6&style=flat" alt="poorna-sai-sriharsha" /> </p>
 
 ## 💫 About Me:-
 🔭 I’m currently working on Developing front-end web applications<br>🌱 I’m currently learning React.js and Node.js<br>💬 Ask me about Front-end Web Development projects<br>📫 How to reach me perina.poornasaisriharsha@gmail.com
