@@ -8,6 +8,7 @@
 ## 🌐 Socials:-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorna-sai-sriharsha-perina)</br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:perina.poornasaisriharsha@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white)](https://poorna-sai-sriharsha.netlify.app/)
 
 # 💻 Tech Stack:-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
